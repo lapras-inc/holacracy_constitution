@@ -299,3 +299,7 @@ Lead Linkがサークルにいない場合、Lead Linkがもつ権限(ロール�
 ## 憲法の改正と廃止
 Ratifierとその後任は、彼らがよりどころにしている規範やプロセスに則って、憲法をまるごと廃止したり改正することができる。憲法改正は、書式で行われなければならず、かつ組織のパートナーが全員アクセス可能な場所に公開されていなければならない。
 
+* * *
+&copy; 2018 LAPRAS Inc.
+This work is licensed under a Creative Commons Attribution ShareAlike 4.0 International License.
+https://creativecommons.org/licenses/by-sa/4.0
