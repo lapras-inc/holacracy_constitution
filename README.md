@@ -2,10 +2,10 @@
 
 ## LAPRAS で運用中の憲法
 
-[holcracy_constitution_lapras.md](./holcracy_constitution_lapras.md)
+現在 [Holacracy Constitution v5.0 日本語訳版](https://github.com/nunukim/Holacracy-Constitution/blob/v5.0-ja-dev/Holacracy-Constitution.ja.md) をそのまま運用しています。
 
-※ 現在、[Holacracy Constitution v5.0](https://github.com/holacracyone/Holacracy-Constitution/releases/tag/v5.0) をそのまま運用しています。
-※ 日本語出典は[こちら](https://github.com/nunukim/Holacracy-Constitution/blob/v5.0-ja-dev/Holacracy-Constitution.ja.md)。
+誤字などの修正 Pull Request もこちらにお願いします。
 
 ## 参考
-- [Holacracy Constitution](https://github.com/holacracyone/Holacracy-Constitution/tags)
+
+- 本家英語版: [Holacracy Constitution](https://github.com/holacracyone/Holacracy-Constitution)
